@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "800276270560",
+    "project_id": "zinc-envelope-330217",
+    "storage_bucket": "zinc-envelope-330217.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800276270560:android:2d20a58f4c713935602f85",
+        "android_client_info": {
+          "package_name": "com.example.gmap_interview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800276270560-8pqloae2adiito5p2g7ouroq48uphnno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6TCxkCxndrVgnEGxQsCdbMstLVm34wPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800276270560-8pqloae2adiito5p2g7ouroq48uphnno.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
